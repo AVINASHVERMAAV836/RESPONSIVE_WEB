@@ -71,7 +71,7 @@ html{
 
 #home::before{
     content: "";
-    background: url(../img/bg2.jpg) no-repeat center center/cover;
+    background: url(bg2.jpg) no-repeat center center/cover;
     position: absolute;
     top: 0;
     left: 0;
@@ -132,7 +132,7 @@ html{
 
 #client-section::before{
     content: "";
-    background: url(../img/client.jpg) no-repeat center center/cover;
+    background: url(client.jpg) no-repeat center center/cover;
     position: absolute;
     height: 100%;
     width: 100%;
@@ -146,7 +146,7 @@ html{
 
 #contact::before{
     content: "";
-    background: url(../img/media.jpg) no-repeat center center/cover;
+    background: url(media.jpg) no-repeat center center/cover;
     position: absolute;
     height:100%;
     width:100%;
